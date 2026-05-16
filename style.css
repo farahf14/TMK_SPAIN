@@ -1,0 +1,12 @@
+/* Universal Styling */
+body {
+    background-color: #ffffff00;
+    margin: 0;
+    justify-content: center;
+}
+
+model-viewer {
+    width: 100%;
+    height: 500px;
+    margin: auto;
+}
